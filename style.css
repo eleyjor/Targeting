@@ -1,0 +1,21 @@
+body{
+    font-size: 24px;
+}
+
+div{
+    background-color: aqua;
+    width: 200px;
+    height: 350px;
+    text-align: center;
+    padding: 50px
+}
+
+#go{
+    width: 600px;
+    height:100px;
+    background-color: green
+}
+
+#stop{
+    background-color: red
+}
